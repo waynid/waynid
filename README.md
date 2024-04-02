@@ -1,5 +1,5 @@
 <h1 align="center">Salut moi c'est WAYNID ⭐</h1>
-<h3 align="center">des fois je fais des trucs marrants sur internet.</h3>
+<h3 align="center">des fois je fais des trucs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waynid&label=Profile%20views&color=0e75b6&style=flat" alt="waynid" /> </p>
 
