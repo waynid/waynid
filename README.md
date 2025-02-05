@@ -3,10 +3,6 @@ Sometimes i dev cool stuff.
 developer & Ethical hacker, life is a bunch of code.
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=WAYNID&icon=2&color=3)](https://visitcount.itsvg.in" alt="count" />
-</p>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Citation" />
 </p>
